@@ -1,0 +1,14 @@
+hooks coté client :
+
+	Pre-commit hooks : Afin de vérifier les normes de qualité et de style du code.
+
+	commit-msg : Afin de vérifier avant qu'un message de validation ne soit enregistré dans l'historique Git lors d'une opération de 	commit.
+
+	
+
+hooks coté serveur : 
+
+	post-update :  Afin d'effectuer une notification après une mise à jour histoire que les développeurs soient informés des mises à jour.
+
+	Post-commit hooks : Afin d'effectuer des processus de déploiement.
+
